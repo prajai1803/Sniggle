@@ -105,9 +105,9 @@ autoplay = true
 [node name="AdMob" type="Node" parent="."]
 script = ExtResource( 9 )
 is_real = true
-banner_id = "ca-app-pub-3789667585950608/5405300928"
-interstitial_id = "ca-app-pub-3789667585950608/5949894700"
-rewarded_id = "ca-app-pub-3940256099942544/5224354917"
+banner_id = ""
+interstitial_id = ""
+rewarded_id = ""
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource( 6 )
