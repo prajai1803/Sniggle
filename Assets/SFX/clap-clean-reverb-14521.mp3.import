@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/clap-clean-reverb-14521.mp3-af0b82cebc0f00bb0bd68cc039b48d53.mp3str"
+
+[deps]
+
+source_file="res://Assets/SFX/clap-clean-reverb-14521.mp3"
+dest_files=[ "res://.import/clap-clean-reverb-14521.mp3-af0b82cebc0f00bb0bd68cc039b48d53.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
